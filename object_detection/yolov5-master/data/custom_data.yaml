@@ -1,0 +1,9 @@
+train: /home/planet/Dhruvil/YOLO/object_detection/yolov5-master/train # train images (relative to 'path') 128 images
+val: /home/planet/Dhruvil/YOLO/object_detection/yolov5-master/val # val images (relative to 'path') 128 images
+
+# Classes
+names:
+  0: virat kohli
+
+# Download script/URL (optional)
+download: https://ultralytics.com/assets/coco128.zip
